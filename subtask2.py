@@ -18,3 +18,4 @@ else:
     print("sum = ",s)
     a = s/n
     print("average = ",a)
+# it looks like I learned how to use git today
